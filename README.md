@@ -1,2 +1,3 @@
 # nocturnal
-WYSIWYG ediror based on WASM. Work in progress
+
+WYSIWYG editor based on WASM. Work in progress.
